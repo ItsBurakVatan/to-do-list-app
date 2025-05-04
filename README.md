@@ -36,6 +36,6 @@ Taskify is a modern, interactive to-do list app with multi-page navigation, dark
 ## 🧩 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/taskify-todo-app.git
+git clone https://github.com/ItsBurakVatan/to-do-list-app.git
 cd taskify-todo-app
 open index.html
